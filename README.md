@@ -34,7 +34,9 @@
 
 ## Flutter UI
 
-1. [Social Media Flutter](https://github.com/sjlouji/SocialMedia-Flutter)
+1. [Social Media UI Flutter](https://github.com/sjlouji/SocialMedia-Flutter)
+
+2. [Login and Register UI Flutter](https://github.com/sjlouji/LoginAndRegister-Flutter)
 
 
 ## Get in touch with me
