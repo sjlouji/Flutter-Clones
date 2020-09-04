@@ -32,6 +32,11 @@
 12.  [Linkedin Clone Flutter](https://github.com/sjlouji/LinkedinClone-Flutter)
 
 
+## Flutter UI
+
+1. [Social Media Flutter](https://github.com/sjlouji/SocialMedia-Flutter)
+
+
 ## Get in touch with me
 
 <h3>Where to find me</h3>
