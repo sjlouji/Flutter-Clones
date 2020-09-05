@@ -38,6 +38,7 @@
 
 2. [Login and Register UI Flutter](https://github.com/sjlouji/LoginAndRegister-Flutter)
 
+3. [Walkthrough UI with Flutter](https://github.com/sjlouji/Walkthrough-Flutter)
 
 ## Get in touch with me
 
