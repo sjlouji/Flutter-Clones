@@ -40,11 +40,11 @@
 
 3. [Walkthrough UI with Flutter](https://github.com/sjlouji/Walkthrough-Flutter)
 
-4. [Money Transfer App UI](https://github.com/sjlouji/MoneyTransferApp-Flutter/)
+4. [Money Transfer App UI Flutter](https://github.com/sjlouji/MoneyTransferApp-Flutter/)
 
-5. [Rental App UI](https://github.com/sjlouji/RentalApp-Flutter)
+5. [Rental App UI Flutter](https://github.com/sjlouji/RentalApp-Flutter)
 
-6. [Dark Mode Dashboard UI](https://github.com/sjlouji/DarkModeDashboard-Flutter)
+6. [Dark Mode Dashboard UI Flutter](https://github.com/sjlouji/DarkModeDashboard-Flutter)
 
 ## Get in touch with me
 
