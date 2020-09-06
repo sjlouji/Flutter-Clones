@@ -44,6 +44,8 @@
 
 5. [Rental App UI](https://github.com/sjlouji/RentalApp-Flutter)
 
+6. [Dark Mode Dashboard UI](https://github.com/sjlouji/DarkModeDashboard-Flutter)
+
 ## Get in touch with me
 
 <h3>Where to find me</h3>
