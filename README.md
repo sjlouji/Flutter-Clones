@@ -42,6 +42,8 @@
 
 4. [Money Transfer App UI](https://github.com/sjlouji/MoneyTransferApp-Flutter/)
 
+5. [Rental App UI](https://github.com/sjlouji/RentalApp-Flutter)
+
 ## Get in touch with me
 
 <h3>Where to find me</h3>
