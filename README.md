@@ -46,7 +46,9 @@
 
 6. [Dark Mode Dashboard UI Flutter](https://github.com/sjlouji/DarkModeDashboard-Flutter)
 
-7. [Flutter Login and Register UI V1 Flutter](https://github.com/sjlouji/LoginAndRegisterV1-Flutter)
+7. [Login and Register UI V1 Flutter](https://github.com/sjlouji/LoginAndRegisterV1-Flutter)
+
+8. [To Do App UI Flutter](https://github.com/sjlouji/ToDoApp-Flutter)
 
 ## Get in touch with me
 
