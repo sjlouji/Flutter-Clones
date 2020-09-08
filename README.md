@@ -50,6 +50,8 @@
 
 8. [To Do App UI Flutter](https://github.com/sjlouji/ToDoApp-Flutter)
 
+9. [Chat App UI Flutter](https://github.com/sjlouji/ChatApp-Flutter)
+
 ## Get in touch with me
 
 <h3>Where to find me</h3>
