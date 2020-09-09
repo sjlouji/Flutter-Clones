@@ -52,6 +52,8 @@
 
 9. [Chat App UI Flutter](https://github.com/sjlouji/ChatApp-Flutter)
 
+10. [Profile App UI Flutter](https://github.com/sjlouji/ProfileUI-Flutter)
+
 ## Get in touch with me
 
 <h3>Where to find me</h3>
